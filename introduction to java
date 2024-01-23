@@ -10,7 +10,7 @@ public static void main(string[] args){
     //Integer 
 
 		int age = 45;     
-		System.out.println(age);
+		System.out.println(age); 
 		
 		short value = 10000;
 		System.out.println(value);

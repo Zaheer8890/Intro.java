@@ -1,0 +1,51 @@
+class datatypes {
+public static void main(string[] args ){
+
+// 1 Data types in java
+		
+		// Integers
+		
+		int age = 45;     
+		System.out.println(age);
+		
+		short value = 10000;
+		System.out.println(value);
+		
+		long number = 100000000000l;
+		System.out.println(number);
+		
+		//Decimals
+		
+		float decimal = 12.3f;
+		System.out.println(decimal);
+		
+		double bdecima = 23.3;
+	    System.out.println(bdecima);
+		
+		// true or false
+		
+		boolean val = true;
+		System.out.println(val);
+		
+		//characters or strings 
+		
+		char ch = '@';
+		System.out.println(ch);
+		
+		
+	// 2 Type conversion
+		
+		int val1 = 10;
+		long val2 = 15;
+		val1 = (int)val2;  // explicit function
+		System.out.println(val1);
+		
+		long val3 = 15;
+		int val4 = 10;
+		val3 = val4;  //implicit function automatically
+		System.out.println(val3);	double bdecima = 54.3;
+
+}
+}
+		
+	

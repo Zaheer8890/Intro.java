@@ -7,7 +7,7 @@ public static void main(string[] args){
 
 // 2 Data types in java
    
-    //Integer
+    //Integer 
 
 		int age = 45;     
 		System.out.println(age);
